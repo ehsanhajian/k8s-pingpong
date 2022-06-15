@@ -1,0 +1,6 @@
+ServerPort: 8000
+PingInterval: 3
+Servers:
+    - IP: google.com
+    - IP: yahoo.com
+    - IP: 8.8.8.8
